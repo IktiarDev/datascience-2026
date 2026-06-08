@@ -1,6 +1,6 @@
 # Portofolio Data Science - Pertemuan 1 s/d 7
 
-Selamat datang di repository portofolio perkuliahan Pengantar Data Science saya. Repository ini dibuat untuk mendokumentasikan seluruh materi pembelajaran, latihan pemrograman, analisis data, visualisasi, preprocessing, hingga pemodelan regresi yang telah saya selesaikan sepanjang Pertemuan 1 sampai Pertemuan 7.
+Selamat datang di repository portofolio kuliah Pengantar Data Science saya. Repository ini saya buat untuk mendokumentasikan seluruh tugas, latihan praktis, pemrosesan data, hingga pemodelan regresi yang telah saya kerjakan dari Pertemuan 1 sampai Pertemuan 7.
 
 ## Identitas Penulis
 * **Nama Lengkap**: Muhammad Ikctiar Saputra
@@ -12,48 +12,47 @@ Selamat datang di repository portofolio perkuliahan Pengantar Data Science saya.
 ---
 
 ## Deskripsi Singkat Repository
-Halo! Saya Muhammad Ikctiar Saputra, seorang mahasiswa Informatika PJJ di Universitas Siber Asia. Belajar Data Science merupakan bagian penting dari perjalanan akademik dan karir saya, dengan tujuan utama untuk memahami bagaimana data dapat diolah menjadi wawasan (*insights*) yang berharga untuk memecahkan masalah nyata di industri teknologi dan otomatisasi bisnis. Melalui perkuliahan ini, saya berkomitmen untuk menguasai dasar-dasar pemrograman data, pembersihan data, visualisasi yang informatif, serta konsep pemrosesan awal data sebelum masuk ke pemodelan statistik dan machine learning.
+Halo! Saya Muhammad Ikctiar Saputra, mahasiswa Informatika PJJ di Universitas Siber Asia. Bagi saya, mempelajari Data Science sangat penting untuk menunjang karir dan pemahaman teknologi, terutama dalam mengolah data mentah menjadi informasi atau insight yang bermanfaat untuk bisnis dan teknologi. Lewat matakuliah ini, saya belajar mulai dari dasar pemrograman Python, pembersihan data (data wrangling), visualisasi data, preprocessing, hingga dasar machine learning.
 
-Repository ini berisi portofolio lengkap tugas dan latihan praktis mingguan yang mencakup seluruh alur kerja Data Science (*Data Science Workflow*). Di dalamnya, Anda akan menemukan eksplorasi sintaks Python dasar, analisis statistik deskriptif menggunakan dataset nyata, proses pembersihan data kotor (*data wrangling*), integrasi dengan REST API publik, visualisasi interaktif dan pembuatan dashboard visualisasi statis, rekayasa fitur (*feature engineering*) seperti *one-hot encoding* dan scaling, hingga implementasi model regresi linier untuk memprediksi harga mobil berdasarkan data sintetis. Setiap topik dikemas secara terpisah dalam file Jupyter Notebook yang rapi dan terstruktur.
+Repository ini berisi kumpulan tugas mingguan saya yang mencakup alur kerja (workflow) Data Science dasar. Di sini, Anda bisa melihat latihan saya mulai dari sintaks dasar Python, eksplorasi data tips dan penguins, integrasi REST API, pembuatan visualisasi dashboard, preprocessing data (seperti scaling & encoding), sampai pembuatan model regresi linear sederhana untuk memprediksi harga mobil. Semuanya disusun dalam file Jupyter Notebook agar mudah dibaca dan dipelajari kembali.
 
 ---
 
 ## Daftar Pertemuan & Link Notebook
 
-Berikut adalah tabel daftar pertemuan perkuliahan beserta topik bahasan dan akses langsung ke masing-masing notebook:
+Berikut adalah daftar pertemuan dan link langsung menuju Jupyter Notebook masing-masing tugas:
 
 | Pertemuan | Topik / Deskripsi Pembahasan | Link Akses Notebook |
 | :--- | :--- | :--- |
-| **Pertemuan 1** | Dasar Pemrograman Python (Variabel, Loop, List, Fungsi) | [Pertemuan1_Ikctiar_250401020169.ipynb](file:///c:/Users/ahmad/OneDrive/Documents/Kuliah/data-science/Pertemuan1_Ikctiar_250401020169.ipynb) |
-| **Pertemuan 2** | Eksplorasi Data Analitis (EDA) pada Dataset Tips | [Pertemuan2_Ikctiar_250401020169.ipynb](file:///c:/Users/ahmad/OneDrive/Documents/Kuliah/data-science/Pertemuan2_Ikctiar_250401020169.ipynb) |
-| **Pertemuan 3** | Pembersihan Data (Data Wrangling) & Integrasi REST API | [Pertemuan3_Ikctiar_250401020169.ipynb](file:///c:/Users/ahmad/OneDrive/Documents/Kuliah/data-science/Pertemuan3_Ikctiar_250401020169.ipynb) |
-| **Pertemuan 4** | Visualisasi Data Eksploratif pada Dataset Penguins | [Pertemuan4_Ikctiar_250401020169.ipynb](file:///c:/Users/ahmad/OneDrive/Documents/Kuliah/data-science/Pertemuan4_Ikctiar_250401020169.ipynb) |
-| **Pertemuan 5** | Dashboard Visualisasi Statis 2x2 Multi-subplot | [Pertemuan5_Ikctiar_250401020169.ipynb](file:///c:/Users/ahmad/OneDrive/Documents/Kuliah/data-science/Pertemuan5_Ikctiar_250401020169.ipynb) |
-| **Pertemuan 6** | Pra-pemrosesan Data (ML Preprocessing) pada Dataset Tips | [Pertemuan6_Ikctiar_250401020169.ipynb](file:///c:/Users/ahmad/OneDrive/Documents/Kuliah/data-science/Pertemuan6_Ikctiar_250401020169.ipynb) |
-| **Pertemuan 7** | Pemodelan Regresi Linier Harga Mobil & Evaluasi Model | [Pertemuan7_Ikctiar_250401020169.ipynb](file:///c:/Users/ahmad/OneDrive/Documents/Kuliah/data-science/Pertemuan7_Ikctiar_250401020169.ipynb) |
-
+| **Pertemuan 1** | Dasar Pemrograman Python (Variabel, Loop, List, Fungsi) | [Pertemuan1_Ikctiar_250401020169.ipynb](./Pertemuan1_Ikctiar_250401020169.ipynb) |
+| **Pertemuan 2** | Eksplorasi Data Analitis (EDA) pada Dataset Tips | [Pertemuan2_Ikctiar_250401020169.ipynb](./Pertemuan2_Ikctiar_250401020169.ipynb) |
+| **Pertemuan 3** | Pembersihan Data (Data Wrangling) & Integrasi REST API | [Pertemuan3_Ikctiar_250401020169.ipynb](./Pertemuan3_Ikctiar_250401020169.ipynb) |
+| **Pertemuan 4** | Visualisasi Data Eksploratif pada Dataset Penguins | [Pertemuan4_Ikctiar_250401020169.ipynb](./Pertemuan4_Ikctiar_250401020169.ipynb) |
+| **Pertemuan 5** | Dashboard Visualisasi Statis 2x2 Multi-subplot | [Pertemuan5_Ikctiar_250401020169.ipynb](./Pertemuan5_Ikctiar_250401020169.ipynb) |
+| **Pertemuan 6** | Pra-pemrosesan Data (ML Preprocessing) pada Dataset Tips | [Pertemuan6_Ikctiar_250401020169.ipynb](./Pertemuan6_Ikctiar_250401020169.ipynb) |
+| **Pertemuan 7** | Pemodelan Regresi Linier Harga Mobil & Evaluasi Model | [Pertemuan7_Ikctiar_250401020169.ipynb](./Pertemuan7_Ikctiar_250401020169.ipynb) |
 
 ---
 
 ## Tools & Library Yang Digunakan
 
-Seluruh analisis dan implementasi dalam portofolio ini dibangun menggunakan ekosistem Python 3 dan pustaka pendukung berikut:
-* **Python**: Bahasa pemrograman utama untuk seluruh logika data.
-* **Pandas**: Digunakan untuk manipulasi tabel data, pembersihan data (*data wrangling*), dan membaca format CSV.
-* **NumPy**: Digunakan untuk komputasi numerik, pembuatan dataset sintetis, dan operasi matriks.
-* **Matplotlib**: Pustaka visualisasi dasar untuk menggambar chart, grafik kustom, dan mengatur tata letak dashboard multi-subplot.
-* **Seaborn**: Pustaka visualisasi berbasis Matplotlib dengan estetika modern untuk histogram, boxplot, dan heatmap korelasi.
-* **Scikit-Learn**: Pustaka machine learning untuk pembagian data (*train-test split*), standarisasi skala fitur (*StandardScaler*), serta pelatihan model regresi linier (*LinearRegression*).
-* **Requests & json_normalize**: Library untuk mengambil data dari server REST API publik secara dinamis dan menyusunnya ke dalam Pandas DataFrame.
+Untuk mengerjakan seluruh analisis dan visualisasi di atas, saya menggunakan Python 3 beserta library pendukung berikut:
+* **Python**: Bahasa pemrograman utama.
+* **Pandas**: Untuk manipulasi tabel dan pembersihan data.
+* **NumPy**: Untuk komputasi numerik dan pembuatan dataset sintetis.
+* **Matplotlib**: Untuk membuat visualisasi dasar dan dashboard multi-subplot.
+* **Seaborn**: Untuk visualisasi statistik yang lebih rapi dan modern.
+* **Scikit-Learn**: Untuk preprocessing (seperti scaling/encoding) dan pembuatan model regresi linear.
+* **Requests & json_normalize**: Untuk mengambil data dari REST API eksternal dan mengubahnya menjadi format dataframe.
 
 ---
 
 ## Cara Menjalankan Notebook Secara Lokal
 
-Untuk menjalankan file Jupyter Notebook di komputer Anda, ikuti langkah-langkah di bawah ini:
+Jika ingin menjalankan file notebook ini di komputer Anda, silakan ikuti langkah-langkah berikut:
 
-### 1. Prasyarat (Prerequisites)
-Pastikan Anda sudah menginstal **Python (versi 3.8 ke atas)** dan package manager **pip**. Anda disarankan untuk menggunakan Anaconda atau membuat virtual environment terlebih dahulu:
+### 1. Persiapan
+Pastikan Python (versi 3.8 ke atas) dan pip sudah terinstall. Disarankan menggunakan virtual environment agar library tidak bentrok:
 ```bash
 # Membuat virtual environment (opsional)
 python -m venv ds-env
@@ -62,29 +61,26 @@ python -m venv ds-env
 ds-env\Scripts\activate
 ```
 
-### 2. Instalasi Dependensi
-Instal pustaka-pustaka yang diperlukan dengan menjalankan perintah berikut:
+### 2. Install Library
+Install library yang dibutuhkan dengan perintah:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn requests jupyter
 ```
 
-### 3. Menjalankan Jupyter Notebook
-Buka aplikasi Jupyter di workspace project ini dengan perintah:
+### 3. Jalankan Jupyter Notebook
+Jalankan perintah ini di folder project:
 ```bash
 jupyter notebook
 ```
-Setelah browser terbuka, Anda dapat memilih dan menjalankan file notebook (.ipynb) dari daftar yang tersedia dari atas ke bawah.
+Jupyter Notebook akan otomatis terbuka di browser Anda, dan Anda tinggal memilih notebook yang ingin dijalankan.
 
-*Catatan: Anda juga dapat langsung mengunggah file-file notebook ini ke **Google Colab** untuk menjalankannya secara online tanpa perlu instalasi lokal.*
+*Tips: Anda juga bisa langsung upload file .ipynb ini ke Google Colab jika tidak ingin ribet melakukan instalasi lokal.*
 
 ---
 
-## Kesimpulan Umum Perjalanan Belajar (Pertemuan 1 - 7)
+## Kesimpulan Perjalanan Belajar (Pertemuan 1 - 7)
 
-Perjalanan belajar Data Science dari Pertemuan 1 hingga Pertemuan 7 ini memberikan pemahaman yang menyeluruh dan logis tentang bagaimana sebuah alur kerja sains data bekerja dari awal hingga akhir. Pembelajaran dimulai dari penguasaan fondasi pemrograman dasar menggunakan Python di Pertemuan 1, yang menjadi bekal krusial sebelum mulai memanipulasi data tabular. 
+Selama mengikuti perkuliahan dari Pertemuan 1 sampai 7 ini, saya mendapatkan gambaran lengkap tentang bagaimana alur kerja seorang Data Scientist. Mulanya saya memantapkan dasar Python, lalu masuk ke pengolahan data riil. Saya menyadari bahwa di dunia nyata, data seringkali kotor dan tidak siap pakai. Di situlah pentingnya proses pembersihan data (data wrangling) seperti mengatasi missing value atau membuang outlier.
 
-Selanjutnya pada Pertemuan 2 dan 3, saya memahami bahwa data di dunia nyata jarang sekali bersih. Kemampuan melakukan eksplorasi data analitis dasar serta membersihkan data (*data wrangling*) seperti menangani duplikat, imputasi nilai kosong, normalisasi teks, dan membuang outlier dengan batas statistik (IQR) sangatlah krusial karena model machine learning yang baik hanya bisa dibangun dari data yang berkualitas tinggi (*garbage in, garbage out*).
+Selain itu, saya juga belajar menyajikan data lewat visualisasi yang menarik dan mudah dipahami, karena visualisasi adalah cara terbaik untuk menceritakan isi data ke orang lain. Terakhir, pada bagian preprocessing dan pemodelan, saya belajar menyiapkan data (mengubah kategori menjadi angka, menyamakan skala fitur) sebelum akhirnya dimasukkan ke algoritma Regresi Linear untuk membuat model prediksi. Meskipun modelnya masih sederhana, ini menjadi pondasi awal yang sangat berharga bagi saya untuk belajar machine learning yang lebih kompleks ke depannya.
 
-Pada Pertemuan 4 dan 5, fokus bergeser pada penyajian data secara visual. Visualisasi data bukan hanya untuk menghasilkan grafik yang indah, melainkan alat komunikasi yang sangat kuat untuk menemukan pola tersembunyi, korelasi antar variabel, dan menyajikan temuan kompleks kepada pemangku kepentingan dalam bentuk dashboard yang ringkas dan mudah dipahami. 
-
-Akhirnya, pada Pertemuan 6 dan 7, saya diperkenalkan dengan jembatan menuju Machine Learning. Sebelum data digunakan untuk melatih model regresi, data tersebut harus melalui preprocessing (scaling dan encoding) agar algoritma dapat memprosesnya dengan optimal. Melalui pemodelan Regresi Linier sederhana di pertemuan terakhir, saya dapat menguji kemampuan prediksi model dan melakukan evaluasi performa menggunakan metrik kesalahan (seperti MAE dan RMSE) untuk memahami seberapa akurat model dalam memprediksi data baru. Pembelajaran ini memberikan pondasi kokoh bagi saya untuk mendalami pemodelan prediksi yang lebih kompleks di masa mendatang.
