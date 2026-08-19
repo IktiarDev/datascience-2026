@@ -31,6 +31,11 @@ Berikut adalah daftar pertemuan dan link langsung menuju Jupyter Notebook masing
 | **Pertemuan 5** | Dashboard Visualisasi Statis 2x2 Multi-subplot | [Pertemuan5_Ikctiar_250401020169.ipynb](./Pertemuan5_Ikctiar_250401020169.ipynb) |
 | **Pertemuan 6** | Pra-pemrosesan Data (ML Preprocessing) pada Dataset Tips | [Pertemuan6_Ikctiar_250401020169.ipynb](./Pertemuan6_Ikctiar_250401020169.ipynb) |
 | **Pertemuan 7** | Pemodelan Regresi Linier Harga Mobil & Evaluasi Model | [Pertemuan7_Ikctiar_250401020169.ipynb](./Pertemuan7_Ikctiar_250401020169.ipynb) |
+| **Pertemuan 9** | Klasifikasi Kanker Payudara (Logistic Regression & Decision Tree) | [Pertemuan9_Ikctiar_250401020169.ipynb](./Pertemuan9_Ikctiar_250401020169.ipynb) |
+| **Pertemuan 10** | Prediksi Churn Pelanggan Menggunakan Random Forest Classifier | [Pertemuan10_Ikctiar_250401020169.ipynb](./Pertemuan10_Ikctiar_250401020169.ipynb) |
+| **Pertemuan 11** | Analisis Klastering Pelanggan (K-Means & Hierarchical Clustering) | [Pertemuan11_Ikctiar_250401020169.ipynb](./Pertemuan11_Ikctiar_250401020169.ipynb) |
+| **Pertemuan 12** | Market Basket Analysis (Apriori) & Sistem Rekomendasi | [Pertemuan12_Ikctiar_250401020169.ipynb](./Pertemuan12_Ikctiar_250401020169.ipynb) |
+| **Pertemuan 13** | Neural Networks (Keras MLP) & Analisis Sentimen Teks (TF-IDF NLP) | [Pertemuan13_Ikctiar_250401020169.ipynb](./Pertemuan13_Ikctiar_250401020169.ipynb) |
 
 ---
 
@@ -40,10 +45,12 @@ Untuk mengerjakan seluruh analisis dan visualisasi di atas, saya menggunakan Pyt
 * **Python**: Bahasa pemrograman utama.
 * **Pandas**: Untuk manipulasi tabel dan pembersihan data.
 * **NumPy**: Untuk komputasi numerik dan pembuatan dataset sintetis.
-* **Matplotlib**: Untuk membuat visualisasi dasar dan dashboard multi-subplot.
-* **Seaborn**: Untuk visualisasi statistik yang lebih rapi dan modern.
-* **Scikit-Learn**: Untuk preprocessing (seperti scaling/encoding) dan pembuatan model regresi linear.
-* **Requests & json_normalize**: Untuk mengambil data dari REST API eksternal dan mengubahnya menjadi format dataframe.
+* **Matplotlib & Seaborn**: Untuk visualisasi data eksploratif dan statistik.
+* **Scikit-Learn**: Untuk preprocessing (seperti scaling/encoding) dan pembuatan model machine learning (regresi, klasifikasi, clustering).
+* **SciPy**: Untuk analisis klastering hierarki (linkage & dendrogram).
+* **Mlxtend**: Untuk pencarian pola asosiasi belanja (apriori & association rules).
+* **TensorFlow & Keras**: Untuk pembuatan arsitektur jaringan saraf tiruan (deep learning).
+* **Requests & json_normalize**: Untuk mengambil data dari REST API eksternal.
 
 ---
 
@@ -78,9 +85,12 @@ Jupyter Notebook akan otomatis terbuka di browser Anda, dan Anda tinggal memilih
 
 ---
 
-## Kesimpulan Perjalanan Belajar (Pertemuan 1 - 7)
+## Kesimpulan Perjalanan Belajar (Pertemuan 1 - 13)
 
-Selama mengikuti perkuliahan dari Pertemuan 1 sampai 7 ini, saya mendapatkan gambaran lengkap tentang bagaimana alur kerja seorang Data Scientist. Mulanya saya memantapkan dasar Python, lalu masuk ke pengolahan data riil. Saya menyadari bahwa di dunia nyata, data seringkali kotor dan tidak siap pakai. Di situlah pentingnya proses pembersihan data (data wrangling) seperti mengatasi missing value atau membuang outlier.
+Selama mengikuti perkuliahan Pengantar Data Science dari awal hingga akhir, saya memperoleh pemahaman komprehensif mengenai seluruh siklus hidup proyek data science:
+1. **Dasar & Pengolahan Data**: Memulai dari pemantapan sintaks dasar Python, dilanjutkan dengan keterampilan *data wrangling* (pembersihan data kotor, mengatasi missing value, serta integrasi data dari API).
+2. **Visualisasi Data**: Mempelajari cara menyajikan data secara bermakna melalui visualisasi statistis tunggal hingga pembuatan dashboard subplot 2x2.
+3. **Machine Learning Preprocessing & Modeling**: Menyiapkan data (standardisasi dan *one-hot encoding*), melatih model regresi linear sederhana, model klasifikasi (Regresi Logistik, Decision Tree, Random Forest), klastering tidak terbimbing (K-Means & Hierarchical), serta analisis keranjang belanja (Apriori).
+4. **Sistem Rekomendasi & Deep Learning**: Membangun model rekomendasi hibrida (MBA vs Content-Based) serta mempraktikkan dasar jaringan saraf tiruan (Multilayer Perceptron menggunakan TensorFlow/Keras) dan pemrosesan bahasa alami (sentimen analisis menggunakan TF-IDF).
 
-Selain itu, saya juga belajar menyajikan data lewat visualisasi yang menarik dan mudah dipahami, karena visualisasi adalah cara terbaik untuk menceritakan isi data ke orang lain. Terakhir, pada bagian preprocessing dan pemodelan, saya belajar menyiapkan data (mengubah kategori menjadi angka, menyamakan skala fitur) sebelum akhirnya dimasukkan ke algoritma Regresi Linear untuk membuat model prediksi. Meskipun modelnya masih sederhana, ini menjadi pondasi awal yang sangat berharga bagi saya untuk belajar machine learning yang lebih kompleks ke depannya.
-
+Semua materi praktis ini tersusun rapi dalam bentuk Jupyter Notebook untuk masing-masing pertemuan, membentuk fondasi yang solid bagi saya untuk terjun ke bidang machine learning dan kecerdasan buatan (AI) yang lebih mendalam di masa depan.
