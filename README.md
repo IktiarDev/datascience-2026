@@ -1,4 +1,4 @@
-# Portofolio Data Science - Pertemuan 1 s/d 7
+# Portofolio Data Science - Pertemuan 1 s/d 13
 
 Selamat datang di repository portofolio kuliah Pengantar Data Science saya. Repository ini saya buat untuk mendokumentasikan seluruh tugas, latihan praktis, pemrosesan data, hingga pemodelan regresi yang telah saya kerjakan dari Pertemuan 1 sampai Pertemuan 7.
 
